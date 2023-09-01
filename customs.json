@@ -1,0 +1,9 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:include": {},
+        "th:insert": {
+            "context": "div"
+        }
+    }
+}
